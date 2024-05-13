@@ -34,6 +34,12 @@ Proyek ini memanfaatkan sensor suhu DHT11 untuk membaca suhu lingkungan dan meng
 
 6. **Pantau Output**: Sekarang, Anda akan melihat suhu yang dibaca oleh sensor ditampilkan di konsol Python. Jika suhu melebihi 40 derajat Celsius, LED merah akan menyala; jika tidak, LED hijau akan menyala.
 
+## Skema Rangkaian
+
+Berikut adalah skema rangkaian untuk proyek ini:
+
+![Skema Rangkaian](https://projects.arduinocontent.cc/8939aef1-d63d-461d-bd5b-5352a017405b.jpg)
+
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
