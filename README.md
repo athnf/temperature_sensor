@@ -38,7 +38,7 @@ Proyek ini memanfaatkan sensor suhu DHT11 untuk membaca suhu lingkungan dan meng
 
 Berikut adalah skema rangkaian untuk proyek ini:
 
-![Skema Rangkaian](https://projects.arduinocontent.cc/8939aef1-d63d-461d-bd5b-5352a017405b.jpg)
+![Skema Rangkaian](https://europe1.discourse-cdn.com/arduino/optimized/4X/6/c/f/6cfb969235415194d5047ddec0538db1088f60e4_2_500x407.jpeg)
 
 ## Lisensi
 
